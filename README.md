@@ -1,6 +1,6 @@
-# gamifica-o-Hackaton
+﻿# gamifica-o-Hackaton
 
-Plataforma de gamificação desenvolvida durante um hackathon, com React, TypeScript e Vite.
+Plataforma de gamificaÃ§Ã£o desenvolvida durante um hackathon, com React, TypeScript e Vite.
 
 ## Stack
 
@@ -12,7 +12,7 @@ Plataforma de gamificação desenvolvida durante um hackathon, com React, TypeSc
 ## Como rodar localmente
 
 ```bash
-git clone https://github.com/EduardoAlkimim/gamifica-o-Hackaton.git
+git clone https://github.com/EduardoAlkimim/gamificacao-hackathon.git
 cd gamifica-o-Hackaton
 npm install
 npm run dev
